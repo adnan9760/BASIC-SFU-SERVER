@@ -1,1 +1,5 @@
-.env.env 
+AWS_ACCESS_KEY_ID= "AKIAVCVMBOAHOHRVMDWC",
+AWS_SECRET_ACCESS_KEY= "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",
+const S3_BUCKET   = "amazon-s3-hls";
+const S3_REGION   = "ap-south-1";
+const CF_DOMAIN  = "d2o0xqa6paqc0p.cloudfront.net";
